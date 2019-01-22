@@ -1,4 +1,4 @@
--My name is Jonathon Schmalz.
--![Photo](GraftonPark0.jpg)
--I will graduate in 2020.
--I will be working on OpenCircuits.
+- My name is Jonathon Schmalz.
+- ![Photo](GraftonPark0.jpg)
+- I will graduate in 2020.
+- I will be working on OpenCircuits.
